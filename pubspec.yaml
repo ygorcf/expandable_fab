@@ -1,7 +1,8 @@
 name: expandable_fab
-description: A new Flutter package project.
+description: A expandable fab menu.
 version: 0.0.1
 homepage:
+repository: https://github.com/ygorcf/expandable_fab
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
