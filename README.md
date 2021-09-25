@@ -3,4 +3,4 @@
 
 A simple expandable FAb menu
 
-*UNDER DEVELOPEMENT*
+**UNDER DEVELOPEMENT**
